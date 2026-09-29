@@ -1,0 +1,6 @@
+{
+  "name": "ACK Indoor Cricket Hokandara",
+  "description": "Interactive modern web platform for ACK Indoor Cricket Nets in Hokandara with live slot availability, online booking wizard, radar map, and cricket session guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
